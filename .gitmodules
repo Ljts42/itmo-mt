@@ -1,0 +1,9 @@
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:Ljts42/parser-generator.git
+[submodule "lab2"]
+	path = lab2
+	url = git@github.com:Ljts42/recursive-parsing.git
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:Ljts42/generated-parser.git
