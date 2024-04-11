@@ -1,6 +1,6 @@
 ## Домашние задания по курсу Методы трансляции
 
-### [Лабораторная 1](https://github.com/Ljts42/itmo-mt/lab1)
+### [Лабораторная 1](https://github.com/Ljts42/itmo-mt/tree/master/lab1)
 Использование регулярных выражений в языке Perl
 
 ### [Лабораторная 2](https://github.com/Ljts42/recursive-parsing)
